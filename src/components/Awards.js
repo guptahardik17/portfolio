@@ -10,14 +10,13 @@ class Awards extends Component {
           </div>
         </div>
 
-        <br /><br />
         <div className="row">
           <div id="effect-5">
 
           <div className="col-sm-2">
           </div>
 
-            <div className="col-sm-4 col-xs-6">
+            <div className="col-sm-4 col-xs-6" style={{margin: '40px 0 0 0'}}>
               <figure>
                 <img src="images/unisys.jpg" alt=""/>
                 <figcaption>
@@ -29,11 +28,9 @@ class Awards extends Component {
                   </a>
                 </figcaption>
               </figure>
-              <br />
             </div>
 
-
-            <div className="col-sm-4 col-xs-6">
+            <div className="col-sm-4 col-xs-6" style={{margin: '40px 0 0 0'}}>
               <figure>
                 <img src="images/lnmhacks.jpg" alt=""/>
                 <figcaption>
