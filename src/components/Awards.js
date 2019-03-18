@@ -29,7 +29,9 @@ class Awards extends Component {
                   </a>
                 </figcaption>
               </figure>
+              <br />
             </div>
+
 
             <div className="col-sm-4 col-xs-6">
               <figure>
