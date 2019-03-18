@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-compare-image": "^0.8.1",
     "react-dom": "^16.8.4",
@@ -12,9 +13,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "homepage":"https://guptahardik17.github.io/portfolio",
+  "homepage": "https://guptahardik17.github.io/portfolio",
   "eslintConfig": {
     "extends": "react-app"
   },

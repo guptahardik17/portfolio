@@ -48,7 +48,7 @@
     ["Runner-Up","Hack-O-Graphy","Amity University Rajasthan","March 2016"]
   ],
   "Projects":[
-    ["Portfolio","March 2019","ReactJS","Made a portfolio website with reactjs in which all the data is fetched from json file. If anyone else want to make similar portfolio, they can just clone the directory from my github and change the values in json file.","https://github.com/guptahardik17/react-portfolio"],
+    ["Portfolio","March 2019","ReactJS","Made a portfolio website with reactjs in which all the data is fetched from json file. If anyone else want to make similar portfolio, they can just clone the directory from my github and change the values in json file.","https://github.com/guptahardik17/portfolio"],
     ["Soil Fertility Prediction", "Feb 2019", "Python, Machine Learning", "This machine learning models predicts whether the soil is fertile or not and if the soil is non fertile then it will predict what chemical quantities we need to increase or decrease in the soil.","https://github.com/guptahardik17/Soil-Fertility-Prediction"],
     ["Image Scanner & Image to Text Conversion", "Nov 2018", "Python, Machine Learning", "This model works on images, it scan the images like camscanner and then even get the text from the image and print it.","https://github.com/guptahardik17/ML---Image-Scanner-Image-to-Text"],
     ["Youtube Channel Playlist with Search","March 2019","ReactJS","Made a channel playlist app which fetches the data from the json and render on the webpage.","https://github.com/guptahardik17/react-channel-playlist"],
