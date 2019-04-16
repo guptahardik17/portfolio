@@ -35,7 +35,7 @@ class Works extends Component {
 
               <div className="col-md-4 col-sm-6 col-xs-6 mix-target react" data-order="1">
                 <figure>
-                  <img src="images/portfolio/react1.png" alt="" />
+                  <img src="images/portfolio/react.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[0][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[0][0]}</h3>
@@ -48,7 +48,7 @@ class Works extends Component {
 
               <div className="col-md-4 col-sm-6 col-xs-6 mix-target ml" data-order="2">
                 <figure>
-                  <img src="images/portfolio/ml1.png" alt="" />
+                  <img src="images/portfolio/ml.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[1][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[1][0]}</h3>
@@ -59,9 +59,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target ml" data-order="3">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target react" data-order="3">
                 <figure>
-                  <img src="images/portfolio/ml2.jpg" alt="" />
+                  <img src="images/portfolio/react.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[2][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[2][0]}</h3>
@@ -72,9 +72,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target react" data-order="4">
-                <figure target="_blank">
-                  <img src="images/portfolio/react2.jpg" alt="" />
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target react" data-order="3">
+                <figure>
+                  <img src="images/portfolio/react.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[3][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[3][0]}</h3>
@@ -85,9 +85,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target node" data-order="5">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target ml" data-order="3">
                 <figure>
-                  <img src="images/portfolio/node1.png" alt="" />
+                  <img src="images/portfolio/ml.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[4][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[4][0]}</h3>
@@ -98,9 +98,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="6">
-                <figure>
-                  <img src="images/portfolio/web1.jpg" alt="" />
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target react" data-order="4">
+                <figure target="_blank">
+                  <img src="images/portfolio/react.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[5][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[5][0]}</h3>
@@ -111,9 +111,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target ml" data-order="7">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target node" data-order="5">
                 <figure>
-                  <img src="images/portfolio/ml3.png" alt="" />
+                  <img src="images/portfolio/react.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[6][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[6][0]}</h3>
@@ -124,9 +124,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="8">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="6">
                 <figure>
-                  <img src="images/portfolio/web2.jpg" alt="" />
+                  <img src="images/portfolio/web.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[7][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[7][0]}</h3>
@@ -137,9 +137,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="9">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target ml" data-order="7">
                 <figure>
-                  <img src="images/portfolio/web3.jpg" alt="" />
+                  <img src="images/portfolio/ml.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[8][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[8][0]}</h3>
@@ -150,9 +150,9 @@ class Works extends Component {
                 </figure>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-xs-6 mix-target java" data-order="10">
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="8">
                 <figure>
-                  <img src="images/portfolio/java.png" alt="" />
+                  <img src="images/portfolio/web.jpg" alt="" />
                   <figcaption>
                     <a href={this.props.projects[9][4]} target="_blank" rel="noopener noreferrer">
                       <h3>{this.props.projects[9][0]}</h3>
@@ -163,10 +163,36 @@ class Works extends Component {
                 </figure>
               </div>
 
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target web" data-order="9">
+                <figure>
+                  <img src="images/portfolio/web.jpg" alt="" />
+                  <figcaption>
+                    <a href={this.props.projects[10][4]} target="_blank" rel="noopener noreferrer">
+                      <h3>{this.props.projects[10][0]}</h3>
+                      <hr />
+                      <p>{this.props.projects[10][2]}</p>
+                    </a>
+                  </figcaption>
+                </figure>
+              </div>
+
+              <div className="col-md-4 col-sm-6 col-xs-6 mix-target java" data-order="10">
+                <figure>
+                  <img src="images/portfolio/java.jpg" alt="" />
+                  <figcaption>
+                    <a href={this.props.projects[11][4]} target="_blank" rel="noopener noreferrer">
+                      <h3>{this.props.projects[11][0]}</h3>
+                      <hr />
+                      <p>{this.props.projects[11][2]}</p>
+                    </a>
+                  </figcaption>
+                </figure>
+              </div>
+
             </div>
-            <div className="col-sm-12 text-center">
+            {/*<div className="col-sm-12 text-center">
               <a href="#" className="btn btn-orange">Load More</a>
-            </div>
+            </div>*/}
 
           </div>
 
